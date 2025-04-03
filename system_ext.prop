@@ -17,7 +17,7 @@ ro.media.recorder-max-base-layer-fps=60
 ro.vendor.qti.va_aosp.support=1
 
 # Radio
-ril.subscription.types=RUIM
+ril.subscription.types=NV,RUIM
 
 # WiFi
 ro.boot.wificountrycode=00
