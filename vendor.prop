@@ -263,7 +263,7 @@ persist.vendor.radio.sib16_support=1
 persist.vendor.radio.start_ota_daemon=0
 persist.vendor.radio.sw_mbn_update=0
 persist.vendor.rcs.singlereg.feature=1
-ro.telephony.default_network=22,22
+ro.telephony.default_network=33,33
 telephony.lteOnCdmaDevice=1
 
 # Sensors
