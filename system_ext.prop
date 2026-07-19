@@ -5,6 +5,9 @@ persist.vendor.cne.logging.qxdm=3974
 # DPM
 persist.vendor.dpm.feature=11
 
+# Force Official Build Status
+ro.lineage.releasetype=MONTHLY   
+
 # IMS
 persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
